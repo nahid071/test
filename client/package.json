@@ -2,5 +2,8 @@
   "name": "client",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "uuidv4": "^6.2.13"
+  }
 }
